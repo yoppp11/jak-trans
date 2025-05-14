@@ -1,6 +1,6 @@
 # 🚍 JakTrans
 
-**JakTrans** adalah sebuah website yang dibangun menggunakan **React** dan **TypeScript** untuk menampilkan informasi transportasi publik di Jakarta. Website ini memanfaatkan **React Leaflet** untuk peta interaktif dan **Axios** untuk pengambilan data dari API.
+**JakTrans** adalah sebuah website yang dibangun menggunakan **React** dan **TypeScript** untuk menampilkan informasi transportasi. Website ini memanfaatkan **React Leaflet** untuk peta interaktif dan **Axios** untuk pengambilan data dari API.
 
 ---
 
